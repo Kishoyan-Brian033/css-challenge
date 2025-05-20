@@ -103,7 +103,7 @@ p{
     padding: 10px 20px;
     border-radius: 10px;
     border: 1px solid #eee;
-    background-color: rgb(50, 138, 205);
+    background-color: #4a90e2;
     gap: 1rem;
 }
 .btns button:nth-child(2){
@@ -132,7 +132,7 @@ p{
 }
 .cards ion-icon{
     font-size: 40px;
-    color: rgb(50, 138, 205);
+    color: #4a90e2;
     margin-top: 10px;
 }
 .cards h3{
@@ -144,7 +144,7 @@ p{
     font-size: 12px;
 }
 .cards:nth-child(3){
-    background-color: rgb(50, 138, 205);
+    background-color: #4a90e2;
     
     
 }
@@ -175,7 +175,7 @@ p{
 }
 .content ion-icon{
     font-size: 60px;
-    color: rgb(50, 138, 205);
+    color: #4a90e2;
     margin-top: 20px;
 }
 .content h2{
@@ -295,7 +295,7 @@ p{
     border: none;
     padding: 15px 10px;
     height: 100%;
-    background-color: rgb(50, 138, 205);
+    background-color: #4a90e2;
 }
 .pricing{
  display: flex;
@@ -340,7 +340,7 @@ p{
 .big-cards{
     background: #eee;
     padding: 20px;
-    border: 1px solid rgb(50, 138, 205);
+    border: 1px solid #4a90e2;
     border-radius: 7px;
 
 }
@@ -389,7 +389,7 @@ p{
     font-weight: bold;
     display: block;
     margin: 15px 0;
-    color: rgb(50, 138, 205);
+    color: #4a90e2;
 }
 
 .card-top span sup {
@@ -442,7 +442,7 @@ p{
     padding: 12px;
     border: none;
     border-radius: 5px;
-    background: rgb(50, 138, 205);
+    background: #4a90e2;
     color: white;
     font-weight: bold;
     font-size: 16px;
